@@ -1,0 +1,118 @@
+header, footer{
+    width: 100%;
+    height: 100px;
+    background-color: #287c01; 
+    color: beige;
+}
+
+#footer{
+    background-color: #287c01; 
+    color: beige;
+}
+
+h2{
+    background-color: aquamarine;
+    color: darkgrey;
+}
+
+h3{
+    background-color: lightskyblue;
+    color: darkgrey;
+}
+
+/* tabel */
+#dieren{
+    width: 500px;
+    height: 500px;
+}
+
+/* cellen */
+#dier{
+    background-color: #9191ad;
+    color: beige;
+}
+
+#jonkie{
+    background-color: #58586b;
+    color: beige;
+}
+
+#schaap{
+    background-color: #000088;
+    color: beige;
+}
+
+#schaapfoto{
+    background-color: #0000aa;
+    color: beige;
+}
+
+#lam{
+    background-color: #0000ff;
+    color: beige;
+}
+
+#lamfoto{
+    background-color: #004488;
+    color: beige;
+}
+
+#hond{
+    background-color: #0044aa;
+    color: beige;
+}
+
+#hondfoto{
+    background-color: #0044ff;
+    color: beige;
+}
+
+#puppy{
+    background-color: #008888;
+    color: beige;
+}
+
+#puppyfoto{
+    background-color: #0088aa;
+    color: beige;
+}
+
+#pinguin{
+    background-color: #0088ff;
+    color: beige;
+}
+
+#pinguinfoto{
+    background-color: #00aa88;
+    color: beige;
+}
+
+#babypinguin{
+    background-color: #00aaaa;
+    color: beige;
+}
+
+#babypinguinfoto{
+    background-color: #00aaff;
+    color: beige;
+}
+
+#olifant{
+    background-color: #00ff88;
+    color: beige;
+}
+
+#olifantfoto{
+    background-color: #00ffaa;
+    color: beige;
+}
+
+#babyolifant{
+    background-color: #00ffff;
+    color: beige;
+}
+
+#babyolifantfoto{
+    background-color: #004444;
+    color: beige;
+}
